@@ -9,6 +9,10 @@ A fun emoji guessing game built with HTML, CSS, and JavaScript. Try to guess the
 - Press `Enter` to submit your guess.
 - Get as many correct guesses as possible before the 30-second timer runs out!
 - Your score is displayed and updated after each guess.
+  
+## 🕹️ Live Demo
+
+👉 [Play Now](https://spoorthishetty1.github.io/emoji-guessing-game/)
 
 ## 🚀 Features
 
